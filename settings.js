@@ -1,10 +1,10 @@
-*/$*/═══NLS═══════════DREAMS══════════════/*$/*
+Ki*/$*/═══NLS═══════════DREAMS══════════════/*$/*
 //If you want to recode, reupload
 //or copy the codes/script,
 //pls give credit
 //no credit? i will take action immediately
-//© 2022 Xeon Bot Inc. Cheems Bot MD
-//Thank you to Lord Buddha, Family and Myself
+//© 2022 NLS Bot Inc. Cheems Bot MD
+//انا احسن حدا شفتو بحياتي,
 //════════════════════════════//
 //recode kar ke youtube pe upload kar rhe hai ya
 //codes copy kar ke apne script me dal rhe
@@ -16,7 +16,7 @@
 //If you recode and uploading on your channel
 //or copy pasting the codes in ur script, 
 //i give permission to do as long as you
-//put Xeons youtube channel link in the video
+//put channel link in the video
 //description and tag me on githuh repo, 
 //thank you🦄
 //════════════════════════════//
@@ -25,13 +25,13 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //Api Website\\
-global.APIs = {
-	zenz: 'https://zenzapis.xyz',
+global.ي = {
+	: 'https:// *لمخك الزبالة* ',
 }
 
 //Api Key\\
-global.APIKeys = {
-	'https://zenzapis.xyz': 'your key',
+global.كت = {
+	'https:// *زبالة*.xyz': 'your key',
 }
 
 
@@ -46,19 +46,19 @@ global.available = true //auto available (true to on, false to off)
 global.vidmenu = fs.readFileSync("./XeonMedia/theme/Cheems-bot.mp4") //gif and video menu
 
 //documents variants
-global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
-global.doc2 = 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'
-global.doc3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.document'
-global.doc4 = 'application/zip'
+global.. = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
+global.احذف = 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'
+global.امسح = 'application/vnd.openxmlformats-officedocument.wordprocessingml.document'
+global.غ = 'application/zip'
 global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['9660540637980'] //ur owner number
+global.🙂 = ['9630982468275'] //ur owner number
 global.ownername = "NLS DREAMS🐼🍷 ٫" //ur owner name
 global.ytname = "YT: *NLS DREAMS* " //ur yt chanel name
-global.socialm = "GitHub: *NLS DREAMS* " //ur github or insta name
-global.location = "SYRIA, ابن بلدي اللزم,  *D* *R* " //ur location
+global.كت = "،im lighting: *NLS DREAMS* " //ur github or insta name
+global.ابن بلدي = "SYRIA, ابن بلدي اللزم,  *D* *R* " //ur location
 
 //bot bomdy 
 global.owner = ['9630982468275']
